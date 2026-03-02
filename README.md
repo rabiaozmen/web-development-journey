@@ -54,5 +54,4 @@ Actively learning and continuously expanding this repository.
 ## Author
 
 Rabia Özmen  
-Aspiring Full-Stack & AI Developer
 
