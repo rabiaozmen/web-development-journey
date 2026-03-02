@@ -10,7 +10,7 @@ It includes structured practice files, exercises, mini projects, and larger impl
 
 Frontend:
 - HTML5
-- CSS3
+- CSS
 - Bootstrap
 - JavaScript (ES6+)
 - React
