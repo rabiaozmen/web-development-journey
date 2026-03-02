@@ -9,10 +9,10 @@ It includes structured practice files, exercises, mini projects, and larger impl
 ## Technologies Covered
 
 Frontend:
-- HTML5
+- HTML
 - CSS
 - Bootstrap
-- JavaScript (ES6+)
+- JavaScript 
 - React
 
 Backend:
